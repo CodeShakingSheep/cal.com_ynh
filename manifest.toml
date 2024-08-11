@@ -42,8 +42,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/calcom/cal.com/archive/refs/tags/v4.3.3.tar.gz"
-    sha256 = "6febf9fc65ce09643463101f9e9552a67ae8eda420f3b41c588778783aab8b94"
+    url = "https://github.com/calcom/cal.com/archive/refs/tags/v4.3.6.tar.gz"
+    sha256 = "f28ccf0831a21d125ce6501322eb8ceaae83a55cff96a43565fb995d3da0062f"
 
     autoupdate.strategy = "latest_github_tag"
 
